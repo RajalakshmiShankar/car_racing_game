@@ -1,4 +1,4 @@
-<h1 align="center">Simple Car Racing Game 🚘 in Python</h1>
+<h1 align="center">Simple Car Racing Game in Python</h1>
 
 The Simple Car Racing Game is an interactive 2D racing game created using the Python programming language and the Pygame library. The game features a player-controlled car that moves left and right on a road, avoiding falling obstacles. The objective is to survive as long as possible while collecting points for every successfully avoided obstacle. As the player progresses, the difficulty increases with faster obstacles, creating a more challenging gameplay experience.
 
